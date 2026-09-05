@@ -6,7 +6,7 @@
 <p align="left">
 ㅤ $${\color{#cfbcb1}flux}$$ $${\color{#b3978f}or}$$ $${\color{#96726c}venthyr}$$ $${\color{#7a4d4a}or}$$ $${\color{#5e2828}midas}$$ <img src="https://file.garden/ZxjQjGQBgH_y3H-n/pen%20favicon">
   
-  ㅤ<img src="https://file.garden/ZxjQjGQBgH_y3H-n/roseredrclr.gif">ㅤ $${\color{#834040}he}$$ $${\color{#A05A5A}it}$$ ㅤ $${\color{#B86565}adult}$$ ㅤ $${\color{#BB8580}taken}$$
+  ㅤ<img src="https://file.garden/ZxjQjGQBgH_y3H-n/roseredrclr.gif">ㅤ $${\color{#834040}he}$$ $${\color{#995c5a}it}$$ ㅤ $${\color{#b07773}adult}$$ ㅤ $${\color{#bb8580}taken}$$
   
 <div align="left">
   <img src="https://file.garden/ZxjQjGQBgH_y3H-n/smaaaleer.png">
