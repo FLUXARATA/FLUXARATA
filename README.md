@@ -4,7 +4,7 @@
 <div align="left"> ㅤ </div>
 <div align="left"> ㅤ </div>
 <p align="left">
-ㅤ $${\color{#EBE1D3}flux}$$ $${\color{#823F3F}or}$$ $${\color{#E5D7B7}venthyr}$$ $${\color{#6A2828}or}$$ $${\color{#D1CABA}midas}$$ <img src="https://file.garden/ZxjQjGQBgH_y3H-n/pen%20favicon">
+ㅤ $${\color{#cfbcb1}flux}$$ $${\color{#b3978f}or}$$ $${\color{#96726c}venthyr}$$ $${\color{#7a4d4a}or}$$ $${\color{#5e2828}midas}$$ <img src="https://file.garden/ZxjQjGQBgH_y3H-n/pen%20favicon">
   
   ㅤ<img src="https://file.garden/ZxjQjGQBgH_y3H-n/roseredrclr.gif">ㅤ $${\color{#834040}he}$$ $${\color{#A05A5A}it}$$ ㅤ $${\color{#B86565}adult}$$ ㅤ $${\color{#BB8580}taken}$$
   
